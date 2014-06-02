@@ -1,2 +1,3 @@
-SharePoint_AutoCompleteField
+SharePoint AutoCompleteField
 ============================
+
